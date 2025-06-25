@@ -10,3 +10,8 @@ Explore the dashboards below. Each having its own README with more details about
 ![Data Jobs](/Images/Project_1_Page_1.png)
 
 [**View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+
+## Data Jobs Dashboard V2
+![Data Jobs](/Images/Project_2_Page_1.png)
+
+[**View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
