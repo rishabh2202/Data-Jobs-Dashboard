@@ -8,7 +8,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ## Skills showcased
 
-his project was a journey through key Power BI features. Here's a look at what we mastered:
+This project was a journey through key Power BI features. Here's a look at what we mastered:
 
 -   **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 -   **Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
